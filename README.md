@@ -1,5 +1,5 @@
 # hello-world
-Just getting my bearings \n
+Just getting my bearings
 My name is Anthony Smith
 I am a computer engineering major at the University of Mississippi
 I am interested in hardware engineering
